@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+E:\c#加强基础\CW\CWModel.Model\obj\Debug\CWModel.Model.csproj.AssemblyReference.cache
+E:\c#加强基础\CW\CWModel.Model\obj\Debug\CWModel.Model.csproj.CoreCompileInputs.cache
+E:\c#加强基础\CW\CWModel.Model\bin\Debug\CWModel.Model.dll
+E:\c#加强基础\CW\CWModel.Model\bin\Debug\CWModel.Model.pdb
+E:\c#加强基础\CW\CWModel.Model\obj\Debug\CWModel.Model.dll
+E:\c#加强基础\CW\CWModel.Model\obj\Debug\CWModel.Model.pdb
+=======
+E:\c#加强基础\CW\CWModel.Model\obj\Debug\CWModel.Model.csproj.AssemblyReference.cache
+E:\c#加强基础\CW\CWModel.Model\obj\Debug\CWModel.Model.csproj.CoreCompileInputs.cache
+E:\c#加强基础\CW\CWModel.Model\bin\Debug\CWModel.Model.dll
+E:\c#加强基础\CW\CWModel.Model\bin\Debug\CWModel.Model.pdb
+E:\c#加强基础\CW\CWModel.Model\obj\Debug\CWModel.Model.dll
+E:\c#加强基础\CW\CWModel.Model\obj\Debug\CWModel.Model.pdb
+>>>>>>> 45f0c71 (new)

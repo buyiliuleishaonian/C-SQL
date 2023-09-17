@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+D:\测试项目\CRM.UI\CRM.Models\bin\Debug\CRM.Models.dll
+D:\测试项目\CRM.UI\CRM.Models\bin\Debug\CRM.Models.pdb
+D:\测试项目\CRM.UI\CRM.Models\obj\Debug\CRM.Models.csprojAssemblyReference.cache
+D:\测试项目\CRM.UI\CRM.Models\obj\Debug\CRM.Models.csproj.CoreCompileInputs.cache
+D:\测试项目\CRM.UI\CRM.Models\obj\Debug\CRM.Models.dll
+D:\测试项目\CRM.UI\CRM.Models\obj\Debug\CRM.Models.pdb
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\bin\Debug\CRM.Models.dll
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\bin\Debug\CRM.Models.pdb
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\obj\Debug\CRM.Models.csprojAssemblyReference.cache
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\obj\Debug\CRM.Models.csproj.CoreCompileInputs.cache
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\obj\Debug\CRM.Models.dll
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\obj\Debug\CRM.Models.pdb
+=======
+D:\测试项目\CRM.UI\CRM.Models\bin\Debug\CRM.Models.dll
+D:\测试项目\CRM.UI\CRM.Models\bin\Debug\CRM.Models.pdb
+D:\测试项目\CRM.UI\CRM.Models\obj\Debug\CRM.Models.csprojAssemblyReference.cache
+D:\测试项目\CRM.UI\CRM.Models\obj\Debug\CRM.Models.csproj.CoreCompileInputs.cache
+D:\测试项目\CRM.UI\CRM.Models\obj\Debug\CRM.Models.dll
+D:\测试项目\CRM.UI\CRM.Models\obj\Debug\CRM.Models.pdb
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\bin\Debug\CRM.Models.dll
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\bin\Debug\CRM.Models.pdb
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\obj\Debug\CRM.Models.csprojAssemblyReference.cache
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\obj\Debug\CRM.Models.csproj.CoreCompileInputs.cache
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\obj\Debug\CRM.Models.dll
+D:\【软谋教育】\公开课备课\20181112三层架构(反射解耦)\CRM.UI\CRM.Models\obj\Debug\CRM.Models.pdb
+>>>>>>> 45f0c71 (new)

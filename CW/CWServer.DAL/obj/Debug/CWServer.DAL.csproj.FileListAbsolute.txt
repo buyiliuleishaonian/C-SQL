@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.csproj.AssemblyReference.cache
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.csproj.CoreCompileInputs.cache
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CWServer.DAL.dll
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CWServer.DAL.pdb
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CW.Common.dll
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CWModel.Model.dll
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CW.Common.pdb
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CWModel.Model.pdb
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.csproj.CopyComplete
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.dll
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.pdb
+=======
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.csproj.AssemblyReference.cache
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.csproj.CoreCompileInputs.cache
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CWServer.DAL.dll
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CWServer.DAL.pdb
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CW.Common.dll
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CWModel.Model.dll
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CW.Common.pdb
+E:\c#加强基础\CW\CWServer.DAL\bin\Debug\CWModel.Model.pdb
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.csproj.CopyComplete
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.dll
+E:\c#加强基础\CW\CWServer.DAL\obj\Debug\CWServer.DAL.pdb
+>>>>>>> 45f0c71 (new)

@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\bin\Debug\JD.Models.dll
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\bin\Debug\JD.Models.pdb
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\obj\Debug\JD.Models.csprojAssemblyReference.cache
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\obj\Debug\JD.Models.csproj.CoreCompileInputs.cache
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\obj\Debug\JD.Models.dll
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\obj\Debug\JD.Models.pdb
+=======
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\bin\Debug\JD.Models.dll
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\bin\Debug\JD.Models.pdb
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\obj\Debug\JD.Models.csprojAssemblyReference.cache
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\obj\Debug\JD.Models.csproj.CoreCompileInputs.cache
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\obj\Debug\JD.Models.dll
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Models\obj\Debug\JD.Models.pdb
+>>>>>>> 45f0c71 (new)

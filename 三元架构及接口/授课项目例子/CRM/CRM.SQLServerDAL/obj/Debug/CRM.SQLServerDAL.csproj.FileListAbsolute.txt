@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.SQLServerDAL.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.SQLServerDAL.pdb
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.Common.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.IDAL.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.Models.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.Common.pdb
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.IDAL.pdb
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.Models.pdb
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.csprojAssemblyReference.cache
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.csproj.CoreCompileInputs.cache
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.csproj.CopyComplete
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.pdb
+=======
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.SQLServerDAL.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.SQLServerDAL.pdb
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.Common.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.IDAL.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.Models.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.Common.pdb
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.IDAL.pdb
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\bin\Debug\CRM.Models.pdb
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.csprojAssemblyReference.cache
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.csproj.CoreCompileInputs.cache
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.csproj.CopyComplete
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.dll
+D:\测试项目\CRM.UI\CRM.SQLServerDAL\obj\Debug\CRM.SQLServerDAL.pdb
+>>>>>>> 45f0c71 (new)

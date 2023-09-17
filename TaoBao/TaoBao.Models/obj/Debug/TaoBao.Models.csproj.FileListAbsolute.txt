@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+E:\c#加强基础\TaoBao\TaoBao.Models\bin\Debug\TaoBao.Models.dll
+E:\c#加强基础\TaoBao\TaoBao.Models\bin\Debug\TaoBao.Models.pdb
+E:\c#加强基础\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.csproj.AssemblyReference.cache
+E:\c#加强基础\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.csproj.CoreCompileInputs.cache
+E:\c#加强基础\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.dll
+E:\c#加强基础\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.pdb
+=======
+E:\c#加强基础\TaoBao\TaoBao.Models\bin\Debug\TaoBao.Models.dll
+E:\c#加强基础\TaoBao\TaoBao.Models\bin\Debug\TaoBao.Models.pdb
+E:\c#加强基础\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.csproj.AssemblyReference.cache
+E:\c#加强基础\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.csproj.CoreCompileInputs.cache
+E:\c#加强基础\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.dll
+E:\c#加强基础\TaoBao\TaoBao.Models\obj\Debug\TaoBao.Models.pdb
+>>>>>>> 45f0c71 (new)

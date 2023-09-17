@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+E:\c#加强基础\C#基础\Try异常捕获\bin\Debug\Try异常捕获.exe.config
+E:\c#加强基础\C#基础\Try异常捕获\bin\Debug\Try异常捕获.exe
+E:\c#加强基础\C#基础\Try异常捕获\bin\Debug\Try异常捕获.pdb
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.csproj.AssemblyReference.cache
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.csproj.SuggestedBindingRedirects.cache
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.csproj.CoreCompileInputs.cache
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.exe
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.pdb
+=======
+E:\c#加强基础\C#基础\Try异常捕获\bin\Debug\Try异常捕获.exe.config
+E:\c#加强基础\C#基础\Try异常捕获\bin\Debug\Try异常捕获.exe
+E:\c#加强基础\C#基础\Try异常捕获\bin\Debug\Try异常捕获.pdb
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.csproj.AssemblyReference.cache
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.csproj.SuggestedBindingRedirects.cache
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.csproj.CoreCompileInputs.cache
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.exe
+E:\c#加强基础\C#基础\Try异常捕获\obj\Debug\Try异常捕获.pdb
+>>>>>>> 45f0c71 (new)

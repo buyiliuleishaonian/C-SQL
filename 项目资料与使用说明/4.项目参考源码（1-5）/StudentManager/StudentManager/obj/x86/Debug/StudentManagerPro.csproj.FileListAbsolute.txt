@@ -1,0 +1,157 @@
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csproj.ResolveComReference.cache
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAbout.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAddStudent.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendance.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendanceQuery.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmEditStudent.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmMain.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmModifyPwd.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreManage.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreQuery.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentManage.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentInfo.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmUserLogin.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.Properties.Resources.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.exe
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\bin\Debug\DAL.dll
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\bin\Debug\Models.dll
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\bin\Debug\DAL.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\bin\Debug\Models.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\2-项目框架搭建\项目源码\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csproj.ResolveComReference.cache
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.exe
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\bin\Debug\DAL.dll
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\bin\Debug\Models.dll
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\bin\Debug\DAL.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\bin\Debug\Models.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAbout.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAddStudent.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendance.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendanceQuery.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmEditStudent.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmMain.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmModifyPwd.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreManage.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreQuery.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentManage.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentInfo.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmUserLogin.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.Properties.Resources.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\3-实现用户登录\项目源码\StudentManager\StudentManager\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csproj.ResolveComReference.cache
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.exe
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\bin\Debug\DAL.dll
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\bin\Debug\Models.dll
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\bin\Debug\DAL.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\bin\Debug\Models.pdb
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAbout.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAddStudent.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendance.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendanceQuery.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmEditStudent.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmMain.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmModifyPwd.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreManage.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreQuery.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentManage.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentInfo.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmUserLogin.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\StudentManager.Properties.Resources.resources
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\3_单独录制\NET\项目录制\101-学员管理系统（升级版）\2.视频源版\4-在主窗体中嵌入子窗体\项目源码\StudentManager\StudentManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.exe
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.pdb
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAbout.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAddStudent.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendance.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendanceQuery.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmEditStudent.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmMain.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmModifyPwd.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreManage.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreQuery.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentManage.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentInfo.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmUserLogin.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\3.视频合成\基于OOP思想设计实训学员管理系统（学员专用视频课堂）\2-资料源码\4.项目源码（对应视频1-5）\StudentManager\StudentManager\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\04_VIP视频课程（2015）-.NET\3_扩展视频（源版）\1_项目扩展\1_学员管理系统（升级版）\视频\00_项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+E:\04_VIP视频课程（2015）-.NET\3_扩展视频（源版）\1_项目扩展\1_学员管理系统（升级版）\视频\00_项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csproj.ResolveComReference.cache
+E:\04_VIP视频课程（2015）-.NET\3_扩展视频（源版）\1_项目扩展\1_学员管理系统（升级版）\视频\00_项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.exe
+E:\04_VIP视频课程（2015）-.NET\3_扩展视频（源版）\1_项目扩展\1_学员管理系统（升级版）\视频\00_项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.pdb
+J:\[2]_课件备份\【1】NET\2014\2-视频源版\2_中级突破\1_学员管理系统（升级版）\视频\00_项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+J:\[2]_课件备份\【1】NET\2014\2-视频源版\2_中级突破\1_学员管理系统（升级版）\视频\00_项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.exe
+J:\[2]_课件备份\【1】NET\2014\2-视频源版\2_中级突破\1_学员管理系统（升级版）\视频\00_项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAddStudent.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendance.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendanceQuery.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmEditStudent.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmMain.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmModifyPwd.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreManage.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreQuery.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentManage.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentInfo.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmUserLogin.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.Properties.Resources.resources
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csproj.GenerateResource.Cache
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.exe
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\DAL.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\Models.dll
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\DAL.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\Models.pdb
+J:\[2]_课件备份\【1】NET\2016-.NET顶级工程师VIP标准全套课程【视频转换】\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\【2015】\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.pdb
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.exe
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.pdb
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\DAL.dll
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\Models.dll
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\DAL.pdb
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\bin\Debug\Models.pdb
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAddStudent.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendance.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmAttendanceQuery.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmEditStudent.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmMain.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmModifyPwd.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreManage.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmScoreQuery.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentManage.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmStudentInfo.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.FrmUserLogin.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManager.Properties.Resources.resources
+F:\c#\喜科堂 零基础.Net全栈开发(价值4K)\课程[07]【中级突破】：【项目实战】（一）学员管理系统完整版本\项目资料与使用说明\4.项目参考源码（1-5）\StudentManager\StudentManager\obj\x86\Debug\StudentManagerPro.csproj.GenerateResource.Cache

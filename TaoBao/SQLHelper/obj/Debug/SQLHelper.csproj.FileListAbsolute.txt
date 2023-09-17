@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+E:\c#加强基础\TaoBao\SQLHelper\bin\Debug\SQLHelper.dll
+E:\c#加强基础\TaoBao\SQLHelper\bin\Debug\SQLHelper.pdb
+E:\c#加强基础\TaoBao\SQLHelper\obj\Debug\SQLHelper.csproj.AssemblyReference.cache
+E:\c#加强基础\TaoBao\SQLHelper\obj\Debug\SQLHelper.csproj.CoreCompileInputs.cache
+E:\c#加强基础\TaoBao\SQLHelper\obj\Debug\SQLHelper.dll
+E:\c#加强基础\TaoBao\SQLHelper\obj\Debug\SQLHelper.pdb
+=======
+E:\c#加强基础\TaoBao\SQLHelper\bin\Debug\SQLHelper.dll
+E:\c#加强基础\TaoBao\SQLHelper\bin\Debug\SQLHelper.pdb
+E:\c#加强基础\TaoBao\SQLHelper\obj\Debug\SQLHelper.csproj.AssemblyReference.cache
+E:\c#加强基础\TaoBao\SQLHelper\obj\Debug\SQLHelper.csproj.CoreCompileInputs.cache
+E:\c#加强基础\TaoBao\SQLHelper\obj\Debug\SQLHelper.dll
+E:\c#加强基础\TaoBao\SQLHelper\obj\Debug\SQLHelper.pdb
+>>>>>>> 45f0c71 (new)

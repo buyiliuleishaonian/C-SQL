@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.csproj.AssemblyReference.cache
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.csproj.CoreCompileInputs.cache
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWManager.BLL.dll
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWManager.BLL.pdb
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWModel.Model.dll
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWServer.DAL.dll
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CW.Common.dll
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWModel.Model.pdb
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWServer.DAL.pdb
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CW.Common.pdb
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.csproj.CopyComplete
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.dll
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.pdb
+=======
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.csproj.AssemblyReference.cache
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.csproj.CoreCompileInputs.cache
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWManager.BLL.dll
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWManager.BLL.pdb
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWModel.Model.dll
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWServer.DAL.dll
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CW.Common.dll
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWModel.Model.pdb
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CWServer.DAL.pdb
+E:\c#加强基础\CW\CWManager.BLL\bin\Debug\CW.Common.pdb
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.csproj.CopyComplete
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.dll
+E:\c#加强基础\CW\CWManager.BLL\obj\Debug\CWManager.BLL.pdb
+>>>>>>> 45f0c71 (new)

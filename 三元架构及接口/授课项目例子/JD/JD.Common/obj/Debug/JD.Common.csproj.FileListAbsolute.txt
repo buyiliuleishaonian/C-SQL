@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\bin\Debug\JD.Common.dll
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\bin\Debug\JD.Common.pdb
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\obj\Debug\JD.Common.csproj.CoreCompileInputs.cache
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\obj\Debug\JD.Common.dll
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\obj\Debug\JD.Common.pdb
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\obj\Debug\JD.Common.csprojAssemblyReference.cache
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\bin\Debug\JD.Common.dll
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\bin\Debug\JD.Common.pdb
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\obj\Debug\JD.Common.csprojAssemblyReference.cache
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\obj\Debug\JD.Common.csproj.CoreCompileInputs.cache
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\obj\Debug\JD.Common.dll
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\obj\Debug\JD.Common.pdb
+=======
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\bin\Debug\JD.Common.dll
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\bin\Debug\JD.Common.pdb
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\obj\Debug\JD.Common.csproj.CoreCompileInputs.cache
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\obj\Debug\JD.Common.dll
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\obj\Debug\JD.Common.pdb
+C:\Users\zhouzheng\source\repos\JD.UI\JD.Common\obj\Debug\JD.Common.csprojAssemblyReference.cache
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\bin\Debug\JD.Common.dll
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\bin\Debug\JD.Common.pdb
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\obj\Debug\JD.Common.csprojAssemblyReference.cache
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\obj\Debug\JD.Common.csproj.CoreCompileInputs.cache
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\obj\Debug\JD.Common.dll
+C:\Users\zhouzheng\Desktop\授课项目例子\JD\JD.Common\obj\Debug\JD.Common.pdb
+>>>>>>> 45f0c71 (new)

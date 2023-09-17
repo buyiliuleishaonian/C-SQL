@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.csproj.AssemblyReference.cache
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.csproj.CoreCompileInputs.cache
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.BLL.dll
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.BLL.pdb
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.DAL.dll
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.Models.dll
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.DAL.pdb
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.Models.pdb
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.csproj.CopyComplete
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.dll
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.pdb
+=======
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.csproj.AssemblyReference.cache
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.csproj.CoreCompileInputs.cache
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.BLL.dll
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.BLL.pdb
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.DAL.dll
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.Models.dll
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.DAL.pdb
+E:\c#加强基础\TaoBao\TaoBao.BLL\bin\Debug\TaoBao.Models.pdb
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.csproj.CopyComplete
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.dll
+E:\c#加强基础\TaoBao\TaoBao.BLL\obj\Debug\TaoBao.BLL.pdb
+>>>>>>> 45f0c71 (new)

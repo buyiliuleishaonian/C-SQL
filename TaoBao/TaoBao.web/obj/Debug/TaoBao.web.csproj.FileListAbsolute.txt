@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.csproj.AssemblyReference.cache
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.csproj.SuggestedBindingRedirects.cache
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.csproj.CoreCompileInputs.cache
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.web.exe.config
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.web.exe
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.web.pdb
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.BLL.dll
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.Models.dll
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.DAL.dll
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.BLL.pdb
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.Models.pdb
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.DAL.pdb
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.csproj.CopyComplete
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.exe
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.pdb
+=======
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.csproj.AssemblyReference.cache
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.csproj.SuggestedBindingRedirects.cache
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.csproj.CoreCompileInputs.cache
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.web.exe.config
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.web.exe
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.web.pdb
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.BLL.dll
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.Models.dll
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.DAL.dll
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.BLL.pdb
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.Models.pdb
+E:\c#加强基础\TaoBao\TaoBao.web\bin\Debug\TaoBao.DAL.pdb
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.csproj.CopyComplete
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.exe
+E:\c#加强基础\TaoBao\TaoBao.web\obj\Debug\TaoBao.web.pdb
+>>>>>>> 45f0c71 (new)

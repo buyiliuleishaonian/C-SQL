@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.OracleDAL.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.OracleDAL.pdb
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.Common.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.IDAL.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.Models.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.Common.pdb
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.IDAL.pdb
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.Models.pdb
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.csprojAssemblyReference.cache
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.csproj.CoreCompileInputs.cache
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.csproj.CopyComplete
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.pdb
+=======
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.OracleDAL.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.OracleDAL.pdb
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.Common.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.IDAL.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.Models.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.Common.pdb
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.IDAL.pdb
+D:\测试项目\CRM.UI\CRM.OracleDAL\bin\Debug\CRM.Models.pdb
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.csprojAssemblyReference.cache
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.csproj.CoreCompileInputs.cache
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.csproj.CopyComplete
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.dll
+D:\测试项目\CRM.UI\CRM.OracleDAL\obj\Debug\CRM.OracleDAL.pdb
+>>>>>>> 45f0c71 (new)

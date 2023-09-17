@@ -1,0 +1,113 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.web", "TaoBao.web\TaoBao.web.csproj", "{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.DAL", "TaoBao.DAL\TaoBao.DAL.csproj", "{EEBE5C64-B340-4BC2-AB41-51141848DF13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.BLL", "TaoBao.BLL\TaoBao.BLL.csproj", "{07C26E9D-399B-4D46-A098-26D2239DBBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.Models", "TaoBao.Models\TaoBao.Models.csproj", "{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLHelper", "SQLHelper\SQLHelper.csproj", "{D8490685-8175-4AB7-89E0-33F5D56A07E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.UI", "TaoBao.UI\TaoBao.UI.csproj", "{25D00AFB-38D7-496F-A9E5-688F45086BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBE5C64-B340-4BC2-AB41-51141848DF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBE5C64-B340-4BC2-AB41-51141848DF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBE5C64-B340-4BC2-AB41-51141848DF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBE5C64-B340-4BC2-AB41-51141848DF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C26E9D-399B-4D46-A098-26D2239DBBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C26E9D-399B-4D46-A098-26D2239DBBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C26E9D-399B-4D46-A098-26D2239DBBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C26E9D-399B-4D46-A098-26D2239DBBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8490685-8175-4AB7-89E0-33F5D56A07E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8490685-8175-4AB7-89E0-33F5D56A07E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8490685-8175-4AB7-89E0-33F5D56A07E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8490685-8175-4AB7-89E0-33F5D56A07E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D00AFB-38D7-496F-A9E5-688F45086BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D00AFB-38D7-496F-A9E5-688F45086BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D00AFB-38D7-496F-A9E5-688F45086BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D00AFB-38D7-496F-A9E5-688F45086BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC0FDD1-000E-4ED2-A436-AEF8AF029B36}
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.web", "TaoBao.web\TaoBao.web.csproj", "{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.DAL", "TaoBao.DAL\TaoBao.DAL.csproj", "{EEBE5C64-B340-4BC2-AB41-51141848DF13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.BLL", "TaoBao.BLL\TaoBao.BLL.csproj", "{07C26E9D-399B-4D46-A098-26D2239DBBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.Models", "TaoBao.Models\TaoBao.Models.csproj", "{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLHelper", "SQLHelper\SQLHelper.csproj", "{D8490685-8175-4AB7-89E0-33F5D56A07E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoBao.UI", "TaoBao.UI\TaoBao.UI.csproj", "{25D00AFB-38D7-496F-A9E5-688F45086BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8399BA7F-4CBF-4E9D-8B9D-C615E84A7944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBE5C64-B340-4BC2-AB41-51141848DF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBE5C64-B340-4BC2-AB41-51141848DF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBE5C64-B340-4BC2-AB41-51141848DF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBE5C64-B340-4BC2-AB41-51141848DF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C26E9D-399B-4D46-A098-26D2239DBBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C26E9D-399B-4D46-A098-26D2239DBBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C26E9D-399B-4D46-A098-26D2239DBBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C26E9D-399B-4D46-A098-26D2239DBBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4A1F20-6D80-4BE6-A5D4-50B5241E0383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8490685-8175-4AB7-89E0-33F5D56A07E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8490685-8175-4AB7-89E0-33F5D56A07E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8490685-8175-4AB7-89E0-33F5D56A07E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8490685-8175-4AB7-89E0-33F5D56A07E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D00AFB-38D7-496F-A9E5-688F45086BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D00AFB-38D7-496F-A9E5-688F45086BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D00AFB-38D7-496F-A9E5-688F45086BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D00AFB-38D7-496F-A9E5-688F45086BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC0FDD1-000E-4ED2-A436-AEF8AF029B36}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 45f0c71 (new)

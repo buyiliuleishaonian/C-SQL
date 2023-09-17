@@ -1,0 +1,14 @@
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\obj\Debug\6+1体育彩票选票器.csproj.AssemblyReference.cache
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\obj\Debug\6+1体育彩票选票器.csproj.SuggestedBindingRedirects.cache
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\obj\Debug\_6_1体育彩票选票器.Form1.resources
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\obj\Debug\_6_1体育彩票选票器.Properties.Resources.resources
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\obj\Debug\6+1体育彩票选票器.csproj.GenerateResource.cache
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\obj\Debug\6+1体育彩票选票器.csproj.CoreCompileInputs.cache
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\bin\Debug\6+1体育彩票选票器.exe.config
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\bin\Debug\6+1体育彩票选票器.exe
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\bin\Debug\6+1体育彩票选票器.pdb
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\obj\Debug\6+1体育彩票选票器.exe
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\obj\Debug\6+1体育彩票选票器.pdb
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\bin\Debug\BarcodeX.dll
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\bin\Debug\ThoughtWorks.QRCode.dll
+F:\备份\c#加强基础\6+1体育彩票选票器\6+1体育彩票选票器\obj\Debug\6+1体育彩票选票器.csproj.CopyComplete
